@@ -15,8 +15,8 @@ Including another URLconf
 """
 from django.conf.urls import url
 from django.contrib import admin
-
+from SicWeb import views as views
 urlpatterns = [
     url(r'^adminA/', admin.site.urls),
-    url(),
+    url(r'^$',views.index),
 ]
