@@ -7,4 +7,8 @@ from django.shortcuts import render
 
 def index(req):
     if req.method == "GET":
-        return render(req,'index.html')
+        return render(req, 'sicWeb/index.html')
+
+def index2(req):
+    if req.method == "GET":
+        return render(req, 'sicWeb/index2.html')

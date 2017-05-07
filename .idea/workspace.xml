@@ -2,66 +2,101 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d749c168-2bb6-4691-ac6f-e2b7bdb4f8c1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SicWeb/static/imgs/ico.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SicWeb/static/imgs/phone-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db.sqlite3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/www.saikerobot.com/src/2031902_favicon.ico?t=201705051611188112" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/博瀚一代（北京）教育科技有限公司_files/2000001767.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/博瀚一代（北京）教育科技有限公司_files/2000001768.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/博瀚一代（北京）教育科技有限公司_files/2000001769.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/博瀚一代（北京）教育科技有限公司_files/2000001785.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/博瀚一代（北京）教育科技有限公司_files/2000001786.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/博瀚一代（北京）教育科技有限公司_files/5433343_gy1_c3a4e860-ce9b-4c2c-9b28-57920d677248_resize_pict.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/博瀚一代（北京）教育科技有限公司_files/5433343_gy1_df7509f9-1c77-4628-943d-39b8f9bbc7de_resize_pict.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/博瀚一代（北京）教育科技有限公司_files/8824427_-6_fc7846ca-f0d5-42c2-aca2-7a7b09933470_resize_pictu.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/博瀚一代（北京）教育科技有限公司_files/8825131_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/博瀚一代（北京）教育科技有限公司_files/8825167_3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/博瀚一代（北京）教育科技有限公司_files/8825175_4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/博瀚一代（北京）教育科技有限公司_files/8825623_33.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/博瀚一代（北京）教育科技有限公司_files/8825750_44.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/博瀚一代（北京）教育科技有限公司_files/8825850_55.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/博瀚一代（北京）教育科技有限公司_files/8881582_123.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/博瀚一代（北京）教育科技有限公司_files/8882091_234.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/博瀚一代（北京）教育科技有限公司_files/9359280_qrcode_for_gh_d4c6d152af14_430_f5594c49-d638-469b-8.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/www.saikerobot.com/Scripts/jquery.cookie.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/www.saikerobot.com/cpzs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/www.saikerobot.com/gywm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/www.saikerobot.com/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/www.saikerobot.com/jquery.validatestar.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/www.saikerobot.com/lxwm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/www.saikerobot.com/newsitem/277837362" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/www.saikerobot.com/product/277183258" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/www.saikerobot.com/product/277700361" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/www.saikerobot.com/product/277700373" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/www.saikerobot.com/product/277700377" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/www.saikerobot.com/robots.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/www.saikerobot.com/src/1265_zh-CN.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/www.saikerobot.com/src/css/base.pc.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/www.saikerobot.com/src/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/www.saikerobot.com/src/css/iconfont.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/www.saikerobot.com/src/css/pager.css.1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/www.saikerobot.com/src/pager.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/www.saikerobot.com/sy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/www.saikerobot.com/xwzx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/博瀚一代（北京）教育科技有限公司_files/1265_zh-CN.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/博瀚一代（北京）教育科技有限公司_files/base.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/博瀚一代（北京）教育科技有限公司_files/font-awesome.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/博瀚一代（北京）教育科技有限公司_files/iconfont.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/博瀚一代（北京）教育科技有限公司_files/jquery-1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/博瀚一代（北京）教育科技有限公司_files/jquery-migrate-1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/博瀚一代（北京）教育科技有限公司_files/jquery-ui.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/博瀚一代（北京）教育科技有限公司_files/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/博瀚一代（北京）教育科技有限公司_files/jquery_002.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/博瀚一代（北京）教育科技有限公司_files/jquery_003.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/博瀚一代（北京）教育科技有限公司_files/jquery_004.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/博瀚一代（北京）教育科技有限公司_files/kino.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/博瀚一代（北京）教育科技有限公司_files/pager.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/博瀚一代（北京）教育科技有限公司_files/public.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/博瀚一代（北京）教育科技有限公司_files/underscore-min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/博瀚一代（北京）教育科技有限公司_files/velocity.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/博瀚一代（北京）教育科技有限公司_files/velocity_002.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SIC/static/imgs/2000001770.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SIC/static/imgs/2000001771.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SIC/static/imgs/altimg1.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SIC/static/imgs/altimg2.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SIC/static/imgs/log.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SIC/static/imgs/qq.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SIC/static/imgs/qrcode.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SIC/static/imgs/round_img1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SIC/static/imgs/sina.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SIC/static/imgs/wechat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SicWeb/static/font/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SicWeb/static/font/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SicWeb/static/font/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SicWeb/static/font/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SicWeb/static/imgs/altimg1.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SicWeb/static/imgs/altimg2.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SicWeb/static/imgs/ico.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SicWeb/static/imgs/line.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SicWeb/static/imgs/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SicWeb/static/imgs/qq.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SicWeb/static/imgs/round1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SicWeb/static/imgs/round2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SicWeb/static/imgs/round3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SicWeb/static/imgs/sina.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SicWeb/static/imgs/wechat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SIC/urls.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SicWeb/static/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SicWeb/static/css/bootstrap-theme.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SicWeb/static/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SicWeb/static/css/bootstrap.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SicWeb/static/font/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SicWeb/static/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SicWeb/static/js/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SicWeb/urls.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/sicWeb/index2.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SicWeb/static/imgs/ico.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SicWeb/static/imgs/phone-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/www.saikerobot.com/Scripts/jquery.cookie.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/www.saikerobot.com/cpzs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/www.saikerobot.com/gywm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/www.saikerobot.com/lxwm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/www.saikerobot.com/newsitem/277837362" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/www.saikerobot.com/product/277700361" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/www.saikerobot.com/product/277700377" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/www.saikerobot.com/robots.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/www.saikerobot.com/src/2031902_favicon.ico?t=201705051611188112" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/www.saikerobot.com/src/css/base.pc.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/www.saikerobot.com/src/css/font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/www.saikerobot.com/sy" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/www.saikerobot.com/xwzx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/博瀚一代（北京）教育科技有限公司_files/1265_zh-CN.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/博瀚一代（北京）教育科技有限公司_files/iconfont.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/博瀚一代（北京）教育科技有限公司_files/jquery_004.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/博瀚一代（北京）教育科技有限公司_files/pager.css" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/SicWeb/migrations/__init__.py" afterPath="$PROJECT_DIR$/SicWeb/static/css/homepage.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/www.saikerobot.com/index.html" afterPath="$PROJECT_DIR$/templates/SIC/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/www.saikerobot.com/jquery.validatestar.min.js" afterPath="$PROJECT_DIR$/SIC/static/js/jquery.validatestar.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/www.saikerobot.com/product/277183258" afterPath="$PROJECT_DIR$/templates/SIC/277183258.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/www.saikerobot.com/product/277700373" afterPath="$PROJECT_DIR$/templates/SIC/item.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/www.saikerobot.com/src/1265_zh-CN.css" afterPath="$PROJECT_DIR$/SIC/static/css/1265_zh-CN.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/www.saikerobot.com/src/css/iconfont.css" afterPath="$PROJECT_DIR$/SIC/static/css/iconfont.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/www.saikerobot.com/src/css/pager.css.1" afterPath="$PROJECT_DIR$/SIC/static/css/pager1.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/www.saikerobot.com/src/pager.css" afterPath="$PROJECT_DIR$/SIC/static/css/pager.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/index.html" afterPath="$PROJECT_DIR$/templates/sicWeb/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/博瀚一代（北京）教育科技有限公司_files/2000001767.png" afterPath="$PROJECT_DIR$/SIC/static/imgs/2000001767.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/博瀚一代（北京）教育科技有限公司_files/2000001768.png" afterPath="$PROJECT_DIR$/SIC/static/imgs/2000001768.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/博瀚一代（北京）教育科技有限公司_files/2000001769.png" afterPath="$PROJECT_DIR$/SIC/static/imgs/2000001769.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/博瀚一代（北京）教育科技有限公司_files/2000001785.png" afterPath="$PROJECT_DIR$/SIC/static/imgs/2000001785.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/博瀚一代（北京）教育科技有限公司_files/2000001786.png" afterPath="$PROJECT_DIR$/SIC/static/imgs/2000001786.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/博瀚一代（北京）教育科技有限公司_files/5433343_gy1_c3a4e860-ce9b-4c2c-9b28-57920d677248_resize_pict.png" afterPath="$PROJECT_DIR$/SIC/static/imgs/round_img2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/博瀚一代（北京）教育科技有限公司_files/5433343_gy1_df7509f9-1c77-4628-943d-39b8f9bbc7de_resize_pict.png" afterPath="$PROJECT_DIR$/SIC/static/imgs/5433343_gy1_df7509f9-1c77-4628-943d-39b8f9bbc7de_resize_pict.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/博瀚一代（北京）教育科技有限公司_files/8824427_-6_fc7846ca-f0d5-42c2-aca2-7a7b09933470_resize_pictu.png" afterPath="$PROJECT_DIR$/SIC/static/imgs/ico.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/博瀚一代（北京）教育科技有限公司_files/8825131_2.png" afterPath="$PROJECT_DIR$/SIC/static/imgs/round1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/博瀚一代（北京）教育科技有限公司_files/8825167_3.png" afterPath="$PROJECT_DIR$/SIC/static/imgs/round2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/博瀚一代（北京）教育科技有限公司_files/8825175_4.png" afterPath="$PROJECT_DIR$/SIC/static/imgs/round3.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/博瀚一代（北京）教育科技有限公司_files/8825623_33.png" afterPath="$PROJECT_DIR$/SIC/static/imgs/8825623_33.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/博瀚一代（北京）教育科技有限公司_files/8825750_44.png" afterPath="$PROJECT_DIR$/SIC/static/imgs/8825750_44.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/博瀚一代（北京）教育科技有限公司_files/8825850_55.png" afterPath="$PROJECT_DIR$/SIC/static/imgs/8825850_55.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/博瀚一代（北京）教育科技有限公司_files/8881582_123.jpeg" afterPath="$PROJECT_DIR$/SIC/static/imgs/8881582_123.jpeg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/博瀚一代（北京）教育科技有限公司_files/8882091_234.jpeg" afterPath="$PROJECT_DIR$/SIC/static/imgs/8882091_234.jpeg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/博瀚一代（北京）教育科技有限公司_files/9359280_qrcode_for_gh_d4c6d152af14_430_f5594c49-d638-469b-8.jpeg" afterPath="$PROJECT_DIR$/SIC/static/imgs/9359280_qrcode_for_gh_d4c6d152af14_430_f5594c49-d638-469b-8.jpeg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/博瀚一代（北京）教育科技有限公司_files/base.css" afterPath="$PROJECT_DIR$/SIC/static/css/base.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/博瀚一代（北京）教育科技有限公司_files/font-awesome.css" afterPath="$PROJECT_DIR$/SIC/static/css/font-awesome.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/博瀚一代（北京）教育科技有限公司_files/jquery-1.js" afterPath="$PROJECT_DIR$/SIC/static/js/jquery-1.9.1.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/博瀚一代（北京）教育科技有限公司_files/jquery-migrate-1.js" afterPath="$PROJECT_DIR$/SIC/static/js/jquery-migrate-1.2.1.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/博瀚一代（北京）教育科技有限公司_files/jquery-ui.js" afterPath="$PROJECT_DIR$/SIC/static/js/jquery-ui.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/博瀚一代（北京）教育科技有限公司_files/jquery.js" afterPath="$PROJECT_DIR$/SIC/static/js/jquery.slider.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/博瀚一代（北京）教育科技有限公司_files/jquery_002.js" afterPath="$PROJECT_DIR$/SIC/static/js/jquery.lazyload.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/博瀚一代（北京）教育科技有限公司_files/jquery_003.js" afterPath="$PROJECT_DIR$/SIC/static/js/jquery.color.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/博瀚一代（北京）教育科技有限公司_files/kino.js" afterPath="$PROJECT_DIR$/SIC/static/js/kino.razor.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/博瀚一代（北京）教育科技有限公司_files/public.js" afterPath="$PROJECT_DIR$/SIC/static/js/public.common.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/博瀚一代（北京）教育科技有限公司_files/underscore-min.js" afterPath="$PROJECT_DIR$/SIC/static/js/underscore-min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/博瀚一代（北京）教育科技有限公司_files/velocity.js" afterPath="$PROJECT_DIR$/SIC/static/js/velocity.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/博瀚一代（北京）教育科技有限公司_files/velocity_002.js" afterPath="$PROJECT_DIR$/SIC/static/js/velocity.ui.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Sic/settings.py" afterPath="$PROJECT_DIR$/Sic/settings.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Sic/urls.py" afterPath="$PROJECT_DIR$/Sic/urls.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SicWeb/views.py" afterPath="$PROJECT_DIR$/SicWeb/views.py" />
@@ -94,22 +129,98 @@
     <favorites_list name="Sic" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/index.html">
+        <entry file="file://$PROJECT_DIR$/templates/SIC/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="98">
-              <caret line="25" column="40" lean-forward="false" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="107" />
+            <state relative-caret-position="84">
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="45" selection-end-column="7" />
+              <folding>
+                <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jquery.color.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SIC/static/js/jquery.color.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="kino.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/博瀚一代（北京）教育科技有限公司_files/kino.js">
+      <file leaf-file-name="jquery.lazyload.min.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SIC/static/js/jquery.lazyload.min.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="9" lean-forward="true" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="10" />
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jquery.slider.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SIC/static/js/jquery.slider.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-56">
+              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SIC/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="13" column="43" lean-forward="false" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SIC/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="item.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/SIC/item.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="392">
+              <caret line="14" column="25" lean-forward="false" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+              <folding>
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="277183258.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/templates/SIC/277183258.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="11" column="60" lean-forward="true" selection-start-line="11" selection-start-column="60" selection-end-line="11" selection-end-column="60" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Sic/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="98">
+              <caret line="35" column="27" lean-forward="false" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -120,10 +231,20 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>2</find>
+      <find>Content/</find>
+      <find>s</find>
+      <find>content</find>
+      <find>Content</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="PUSH_AUTO_UPDATE" value="true" />
@@ -135,12 +256,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/SicWeb/apps.py" />
-        <option value="$PROJECT_DIR$/SicWeb/views.py" />
-        <option value="$PROJECT_DIR$/Sic/urls.py" />
         <option value="$PROJECT_DIR$/www.saikerobot.com/product/277700373" />
         <option value="$PROJECT_DIR$/SicWeb/static/css/base.pc.css" />
         <option value="$PROJECT_DIR$/SicWeb/static/css/iconfont.css" />
-        <option value="$PROJECT_DIR$/Sic/settings.py" />
         <option value="$PROJECT_DIR$/SicWeb/static/css/pager.css" />
         <option value="$PROJECT_DIR$/SicWeb/static/css/font-awesome.min.css" />
         <option value="$PROJECT_DIR$/SicWeb/static/css/1265_zh-CN.css" />
@@ -153,8 +271,20 @@
         <option value="$PROJECT_DIR$/SicWeb/static/js/jquery.slider.js" />
         <option value="$PROJECT_DIR$/SicWeb/static/js/jquery.color.js" />
         <option value="$PROJECT_DIR$/SicWeb/static/js/velocity.ui.min.js" />
-        <option value="$PROJECT_DIR$/templates/index.html" />
         <option value="$PROJECT_DIR$/SicWeb/static/js/jquery.validatestar.min.js" />
+        <option value="$PROJECT_DIR$/SicWeb/views.py" />
+        <option value="$PROJECT_DIR$/SicWeb/static/css/body.css" />
+        <option value="$PROJECT_DIR$/templates/index2.html" />
+        <option value="$PROJECT_DIR$/SicWeb/static/css/homepage.css" />
+        <option value="$PROJECT_DIR$/templates/index.html" />
+        <option value="$PROJECT_DIR$/SicWeb/urls.py" />
+        <option value="$PROJECT_DIR$/Sic/urls.py" />
+        <option value="$PROJECT_DIR$/Sic/settings.py" />
+        <option value="$PROJECT_DIR$/templates/SIC/index.html" />
+        <option value="$PROJECT_DIR$/SIC/views.py" />
+        <option value="$PROJECT_DIR$/SIC/urls.py" />
+        <option value="$PROJECT_DIR$/templates/SIC/item.html" />
+        <option value="$PROJECT_DIR$/templates/SIC/277183258.html" />
       </list>
     </option>
   </component>
@@ -165,10 +295,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1" />
+    <option name="x" value="96" />
     <option name="y" value="28" />
-    <option name="width" value="1442" />
-    <option name="height" value="839" />
+    <option name="width" value="1362" />
+    <option name="height" value="813" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -188,8 +318,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -226,7 +354,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="SicWeb" />
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SIC" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -240,7 +372,35 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="SicWeb" />
+              <option name="myItemId" value="Sic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Sic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Sic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SIC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Sic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Sic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SIC" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -258,7 +418,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="SicWeb" />
+              <option name="myItemId" value="SIC" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -266,7 +426,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="imgs" />
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -280,12 +440,14 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Sic" />
+              <option name="myItemId" value="migrations" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -293,15 +455,21 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../downloadHTML" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/SicWeb/static/js" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/templates/SIC" />
+      <recent name="$PROJECT_DIR$/SIC/static/imgs" />
+      <recent name="$PROJECT_DIR$/SIC/static/js" />
+      <recent name="$PROJECT_DIR$/SIC/static/css" />
       <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/templates" />
-      <recent name="$PROJECT_DIR$/SicWeb/static/imgs" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/SIC/static/js" />
+      <recent name="$PROJECT_DIR$/SIC/static/css" />
+      <recent name="$PROJECT_DIR$/SIC/static/imgs" />
+      <recent name="$PROJECT_DIR$/templates/sicWeb" />
       <recent name="$PROJECT_DIR$/SicWeb/static/js" />
     </key>
   </component>
@@ -478,6 +646,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -593,42 +767,92 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="28" width="1442" height="839" extended-state="6" />
+    <frame x="96" y="28" width="1362" height="813" extended-state="0" />
     <layout>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33236995" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35693642" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32947975" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.433526" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20935252" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33092487" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32947975" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20152672" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.05467626" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39884394" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33236995" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33092487" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.072765075" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21852387" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964029" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39884394" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/SicWeb/models.py">
+    <entry file="file://$PROJECT_DIR$/SicWeb/static/css/homepage.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/sicWeb/index2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="18" column="4" lean-forward="false" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="75" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SIC/migrations/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -636,7 +860,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SicWeb/tests.py">
+    <entry file="file://$PROJECT_DIR$/SIC/static/js/SIC/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -644,7 +868,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www.saikerobot.com/xwzx">
+    <entry file="file://$PROJECT_DIR$/SIC/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SIC/tests.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -652,241 +884,242 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SicWeb/static/js/jquery-migrate-1.2.1.min.js">
+    <entry file="file://$PROJECT_DIR$/SIC/static/js/kino.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="9" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="10" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SicWeb/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding>
+            <element signature="e#637#669#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Sic/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        <state relative-caret-position="224">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding>
-            <element signature="e#637#669#0" expanded="true" />
+            <element signature="e#637#677#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SicWeb/apps.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www.saikerobot.com/newsitem/277837362">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www.saikerobot.com/Scripts/jquery.cookie.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/manage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www.saikerobot.com/sy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www.saikerobot.com/robots.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www.saikerobot.com/lxwm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/lib64/python2.7/unittest/loader.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="95" column="0" lean-forward="false" selection-start-line="95" selection-start-column="0" selection-end-line="95" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sic/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="457">
-          <caret line="120" column="23" lean-forward="true" selection-start-line="120" selection-start-column="23" selection-end-line="120" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SicWeb/static/css/1265_zh-CN.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1455">
-          <caret line="101" column="0" lean-forward="false" selection-start-line="101" selection-start-column="0" selection-end-line="101" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SicWeb/static/css/iconfont.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
-          <caret line="1" column="35" lean-forward="true" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SicWeb/static/css/base.pc.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1611">
-          <caret line="95" column="66" lean-forward="false" selection-start-line="95" selection-start-column="66" selection-end-line="95" selection-end-column="66" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SicWeb/static/js/jquery-ui.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="9" column="39699" lean-forward="false" selection-start-line="9" selection-start-column="39699" selection-end-line="9" selection-end-column="39699" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SicWeb/static/js/public.common.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2763">
-          <caret line="2449" column="1" lean-forward="false" selection-start-line="2449" selection-start-column="1" selection-end-line="2449" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SicWeb/static/css/font-awesome.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="3" column="21822" lean-forward="false" selection-start-line="3" selection-start-column="21822" selection-end-line="3" selection-end-column="21822" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SicWeb/static/css/pager.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="396" column="0" lean-forward="true" selection-start-line="396" selection-start-column="0" selection-end-line="396" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SicWeb/static/js/kino.razor.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
-          <caret line="3" column="3598" lean-forward="false" selection-start-line="3" selection-start-column="3598" selection-end-line="3" selection-end-column="3598" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SicWeb/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="9" column="37" lean-forward="false" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+        <state relative-caret-position="266">
+          <caret line="13" column="46" lean-forward="false" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SicWeb/static/js/velocity.ui.min.js">
+    <entry file="file://$PROJECT_DIR$/templates/sicWeb/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="651" column="17" lean-forward="false" selection-start-line="651" selection-start-column="17" selection-end-line="651" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SicWeb/static/js/jquery.slider.js">
+    <entry file="file://$PROJECT_DIR$/SIC/static/css/base.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
-          <caret line="3" column="11013" lean-forward="false" selection-start-line="3" selection-start-column="11013" selection-end-line="3" selection-end-column="11013" />
+        <state relative-caret-position="1120">
+          <caret line="70" column="1" lean-forward="false" selection-start-line="70" selection-start-column="1" selection-end-line="70" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SicWeb/static/js/jquery.min.js">
+    <entry file="file://$PROJECT_DIR$/SIC/static/js/jquery-1.9.1.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-34977">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SicWeb/static/js/jquery.color.js">
+    <entry file="file://$PROJECT_DIR$/SIC/static/css/pager1.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SicWeb/static/js/underscore-min.js">
+    <entry file="file://$PROJECT_DIR$/SIC/static/js/jquery-migrate-1.2.1.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SicWeb/static/js/jquery.cookie.js">
+    <entry file="file://$PROJECT_DIR$/SIC/static/js/jquery-ui.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-355">
-          <caret line="15" column="26" lean-forward="false" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SicWeb/static/js/jquery.lazyload.min.js">
+    <entry file="file://$PROJECT_DIR$/SIC/static/js/public.common.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="4" column="3261" lean-forward="true" selection-start-line="4" selection-start-column="3261" selection-end-line="4" selection-end-column="3261" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SicWeb/static/js/jquery.validatestar.min.js">
+    <entry file="file://$PROJECT_DIR$/SIC/static/js/kino.razor.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-39359">
-          <caret line="34" column="43" lean-forward="false" selection-start-line="34" selection-start-column="43" selection-end-line="34" selection-end-column="43" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/index.html">
+    <entry file="file://$PROJECT_DIR$/SIC/static/js/underscore-min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SIC/static/js/velocity.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SIC/static/js/velocity.ui.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SIC/static/js/jquery.validatestar.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SIC/static/imgs/round1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SIC/static/imgs/round2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SIC/static/imgs/log.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SIC/static/imgs/ico.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SIC/static/imgs/2000001768.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SIC/static/imgs/5433343_gy1_df7509f9-1c77-4628-943d-39b8f9bbc7de_resize_pict.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SIC/static/imgs/round_img2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SIC/static/imgs/round3.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SIC/static/imgs/2000001771.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SIC/static/imgs/8881582_123.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SIC/static/imgs/8825850_55.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SIC/static/imgs/8825750_44.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SIC/static/imgs/8825623_33.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SIC/static/imgs/8882091_234.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SIC/static/imgs/9359280_qrcode_for_gh_d4c6d152af14_430_f5594c49-d638-469b-8.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SIC/static/imgs/2000001767.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SIC/static/imgs/2000001769.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SIC/static/imgs/2000001786.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SIC/static/imgs/2000001785.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sic/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="98">
-          <caret line="25" column="40" lean-forward="false" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="107" />
+          <caret line="35" column="27" lean-forward="false" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="27" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www.saikerobot.com/product/277183258">
+    <entry file="file://$PROJECT_DIR$/SIC/static/js/jquery.color.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -894,7 +1127,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www.saikerobot.com/product/277700361">
+    <entry file="file://$PROJECT_DIR$/SIC/static/js/jquery.lazyload.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -902,15 +1135,43 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www.saikerobot.com/product/277700373">
+    <entry file="file://$PROJECT_DIR$/SIC/static/js/jquery.slider.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
-          <caret line="1" column="49" lean-forward="false" selection-start-line="1" selection-start-column="49" selection-end-line="1" selection-end-column="67" />
+        <state relative-caret-position="-56">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/SIC/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="45" selection-end-column="7" />
+          <folding>
+            <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SIC/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="13" column="43" lean-forward="false" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www.saikerobot.com/product/277700377">
+    <entry file="file://$PROJECT_DIR$/SIC/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/SIC/item2">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -918,34 +1179,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www.saikerobot.com/cpzs">
+    <entry file="file://$PROJECT_DIR$/templates/SIC/item.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="392">
+          <caret line="14" column="25" lean-forward="false" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www.saikerobot.com/gywm">
+    <entry file="file://$PROJECT_DIR$/templates/SIC/277183258.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www.saikerobot.com/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="41" column="44" lean-forward="false" selection-start-line="41" selection-start-column="44" selection-end-line="41" selection-end-column="102" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/博瀚一代（北京）教育科技有限公司_files/kino.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="9" lean-forward="true" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="10" />
+        <state relative-caret-position="308">
+          <caret line="11" column="60" lean-forward="true" selection-start-line="11" selection-start-column="60" selection-end-line="11" selection-end-column="60" />
           <folding />
         </state>
       </provider>
